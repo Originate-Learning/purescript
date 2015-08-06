@@ -10,4 +10,8 @@ at the root of the repo should mostly be resources and the main syllabus. Feel f
 
 ## Resources
 
+## Contributing
+
+If you're looking to contribute to an open-source project, [purescript-bitcore](https://github.com/cxfreeio/purescript-bitcore) could use some love.
+
 ## Syllabus
