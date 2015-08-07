@@ -10,6 +10,8 @@ at the root of the repo should mostly be resources and the main syllabus. Feel f
 
 ## Resources
 
+Phil Freeman's book, [PureScript by Example](https://leanpub.com/purescript/read), has now been updated for the 0.7 version of the compiler -- and it's free! Free! PureScript for everyone!
+
 ## Contributing
 
 If you're looking to contribute to an open-source project, [purescript-bitcore](https://github.com/cxfreeio/purescript-bitcore) could use some love.
